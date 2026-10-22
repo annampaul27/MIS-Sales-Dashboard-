@@ -1,4 +1,4 @@
-# 📊 MIS Sales Dashboard (Excel)
+# MIS Sales Dashboard (Excel)
 
 ## 📌 Project Overview
 
