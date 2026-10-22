@@ -1,6 +1,6 @@
 # MIS Sales Dashboard (Excel)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive **MIS Project** built in Microsoft Excel. It helps analyze sales performance, customer trends, product performance, and business KPIs using Excel's advanced features.
 
@@ -8,7 +8,7 @@ The dashboard is designed to support business decision-making by presenting data
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Monitor overall sales performance
 * Analyze product-wise sales
@@ -19,7 +19,7 @@ The dashboard is designed to support business decision-making by presenting data
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -32,7 +32,7 @@ The dashboard is designed to support business decision-making by presenting data
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 * Interactive Dashboard
 * Dynamic Slicers
@@ -45,7 +45,7 @@ The dashboard is designed to support business decision-making by presenting data
 
 ---
 
-## 📈 Key KPIs
+## Key KPIs
 
 * Total Sales
 * Total Profit
@@ -54,7 +54,7 @@ The dashboard is designed to support business decision-making by presenting data
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 MIS Project.xlsx/
@@ -66,7 +66,7 @@ MIS Project.xlsx/
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning
 * Data Analysis
@@ -78,7 +78,7 @@ MIS Project.xlsx/
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](MIS_Dashboard.png)
 
@@ -89,7 +89,7 @@ Example:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel file.
 2. Open it using Microsoft Excel (2019 or later recommended).
@@ -98,7 +98,7 @@ Example:
 
 ---
 
-## 📚 Business Insights
+##  Business Insights
 
 * Identify top-performing products.
 * Monitor monthly sales growth.
@@ -107,12 +107,10 @@ Example:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Shivam**
+**Anna M Paul**
 
 **Aspiring MIS Executive | Data Analyst**
 
 ---
-
-## ⭐ If you found this project helpful, don't forget to Star this repository.
